@@ -1,0 +1,6 @@
+interface:
+  display_name: "iC 分子结构视图"
+  short_description: "规划分子结构视图的层级、重点、配色与证据边界"
+  default_prompt: "使用 $ic-structure-view 为这个分子结构问题设计清晰、克制且科学含义准确的视图方案。"
+policy:
+  allow_implicit_invocation: true
